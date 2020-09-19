@@ -658,18 +658,18 @@ img {
 }
 
 .bg-overlay::after {
-    background: -webkit-radial-gradient(50% 50%, circle closest-side, #af52ed 0%, #8830df 100%);
+    background: -webkit-radial-gradient(50% 50%, circle closest-side, #2b60db 0%, #1D51C8 100%);
 }
 
 .breadcrumb-area.bg-overlay::after {
-    background: linear-gradient(-45deg, #af52ed 0%, #8830df 100%);
+    background: linear-gradient(-45deg, #2b60db 0%,#1D51C8 100%);
 }
 
 .btn,
 .btn:active,
 .btn.btn-bordered:before,
 .btn.btn-bordered-white:after {
-    background: linear-gradient(-45deg, #af52ed 0%, #8830df 100%);
+    background: linear-gradient(-45deg, #2b60db 0%, #1D51C8 100%);
 }
 
 /*SOCIAL ICONS*/

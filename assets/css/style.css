@@ -68,7 +68,7 @@ body {
     font-family: 'Poppins', sans-serif;
     font-size: 14px;
     line-height: 24px;
-    font-weight: 400;
+    font-weight: 300;
     color: #222;
 }
 
@@ -288,7 +288,6 @@ img {
     display: inline-block;
     font-size: 56px;
     font-weight: 700;
-    text-transform: lowercase;
     line-height: 1em;
     letter-spacing: -1.6px;
 }
